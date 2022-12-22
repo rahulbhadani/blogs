@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Rahul Bhadani's Blog"
+title: "Rahul Bhadani's Blogs"
+description: "Rahul Bhadani's Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://rahulbhadani.github.io/blogs/
