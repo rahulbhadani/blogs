@@ -4,7 +4,7 @@ title: "Rahul Bhadani's Blog"
 description: "Rahul Bhadani's Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: https://rahulbhadani.github.io/blogs/
+baseurl: https://rahulbhadani.github.io/blogs
 disqus: 'demowebsite'
 mailchimp-list: 'https://rahulbhadani.github.io'
 include: ["_pages"]
